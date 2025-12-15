@@ -1,0 +1,21 @@
+{
+  "name": "p5-quiz-game",
+  "version": "1.0.0",
+  "description": "An interactive quiz game using p5.js where two characters engage in dialogue and quiz the player.",
+  "main": "src/sketch.js",
+  "scripts": {
+    "start": "live-server .",
+    "generate-questions": "node data/generate_questions.js"
+  },
+  "keywords": [
+    "p5.js",
+    "quiz",
+    "game",
+    "interactive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.3.0"
+  }
+}

@@ -1,0 +1,11 @@
+question,answer,correct_feedback,incorrect_feedback,hint
+"What is 3 + 5?",8,"Correct! Great job!","Incorrect. Try again!","Think about how many fingers you have on one hand."
+"What is 2 + 6?",8,"Correct! You're on a roll!","Incorrect. Don't give up!","It's the same as 3 + 5."
+"What is 1 + 7?",8,"Correct! You're really good at this!","Incorrect. Keep trying!","It's one less than 9."
+"What is 4 + 4?",8,"Correct! Well done!","Incorrect. Almost there!","It's the same as 3 + 5."
+"What is 5 + 3?",8,"Correct! You're a math whiz!","Incorrect. Don't worry, you can do it!","It's the same as 2 + 6."
+"What is 6 + 1?",7,"Correct! Fantastic!","Incorrect. Try again!","It's one more than 6."
+"What is 0 + 9?",9,"Correct! Excellent work!","Incorrect. Keep trying!","It's the same as 10 - 1."
+"What is 2 + 3?",5,"Correct! You're doing great!","Incorrect. Don't give up!","It's the same as 4 + 1."
+"What is 3 + 4?",7,"Correct! Awesome!","Incorrect. Almost there!","It's one less than 8."
+"What is 1 + 2?",3,"Correct! You're a star!","Incorrect. Try again!","It's the same as 2 + 1."
